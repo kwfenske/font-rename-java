@@ -1,7 +1,7 @@
 
 ### Font Rename (Java)
 
-by: Keith Fenske, http://kwfenske.github.io/
+by: Keith Fenske, https://kwfenske.github.io/
 
 FontRename is a Java 1.4 application to rename OpenType and TrueType font files
 with their internal "font full name" using only plain text characters (ASCII)
@@ -11,7 +11,7 @@ This gives consistent names to font files, no matter what their source. The
 contents of the files are not changed, only the names in the file directory.
 Don't use this program on system folders with installed fonts.
 
-Download the ZIP file here: http://kwfenske.github.io/font-rename-java.zip
+Download the ZIP file here: https://kwfenske.github.io/font-rename-java.zip
 
 Released under the terms and conditions of the GNU General Public License,
 version 3 or later (GPLv3+).
