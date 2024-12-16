@@ -16,4 +16,4 @@ Download the ZIP file here: https://kwfenske.github.io/font-rename-java.zip
 Released under the terms and conditions of the Apache License (version 2.0 or
 later) and/or the GNU General Public License (GPL, version 2 or later).
 
-![Font Rename (Java) sample program image](FontRename4.gif)
+![Font Rename (Java) sample program image](FontRename4.png)
